@@ -1,0 +1,24 @@
+body {
+    background-color: #FFE4E1;
+}
+main {
+    background-color: #ff1493;
+}
+p {
+   color: #ffffff;
+}
+h1 {
+    color: #800000;
+}
+main {
+    border: 5px solid #800080;
+    padding: 10px;
+}
+header {
+    border: 6px solid #C71585;
+    padding: 10px;
+}
+#foto {
+     border: 6px solid #006400;
+    padding: 10px;
+}
